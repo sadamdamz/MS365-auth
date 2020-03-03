@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 // Set up cookies and sessions to save tokens
 app.use(cookieParser());
 app.use(session(
-  { secret: '0dc529ba-5051-4cd6-8b67-c9a901bb8bdf',
+  { secret: 'R=sA@I/QmV5xv4KqB=ZcsahW6jkLL9D?',
     resave: false,
     saveUninitialized: false 
   }));

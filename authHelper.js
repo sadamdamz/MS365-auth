@@ -1,5 +1,5 @@
-var clientId = 'YOUR APP ID HERE';
-var clientSecret = 'YOUR APP PASSWORD HERE';
+var clientId = '7911dfd8-06fe-4ef6-b042-4b254d47f860';
+var clientSecret = 'R=sA@I/QmV5xv4KqB=ZcsahW6jkLL9D?';
 var redirectUri = 'http://localhost:3000/authorize';
 
 var scopes = [
